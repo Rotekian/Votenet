@@ -8,13 +8,6 @@ dist/
 build/
 *.egg-info/
 *.egg
-*.so
-.mypy_cache/
-.pytest_cache/
-.coverage
-*.log
-*.sqlite
-*.db
 node_modules/
 venv/
 .env
@@ -24,4 +17,3 @@ venv/
 *.swo
 *.tmp
 *.bak
-*.old
